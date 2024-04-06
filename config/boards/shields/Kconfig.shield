@@ -1,2 +1,2 @@
 config SHIELD_THUMBY
-....def_bool $(shields_list_contains, thumby)
+  def_bool $(shields_list_contains, thumby)
